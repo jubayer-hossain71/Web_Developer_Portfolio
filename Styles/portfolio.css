@@ -19,7 +19,7 @@ body {
   margin-top: 30px;
 }
 
-.section-tittle {
+.section-title {
   color: #181818;
   text-align: center;
   font-size: 35px;
@@ -127,4 +127,20 @@ main {
 
 .about-info {
   text-align: center;
+}
+
+.info-tittle {
+  color: #757575;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.info-description {
+  color: #474747;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+#what-i-do-description {
+  padding: 30px 150px;
 }
