@@ -106,6 +106,10 @@ nav a {
 }
 
 /* main related styles */
+main {
+  max-width: 1140px;
+  margin: 0px auto;
+}
 
 /* about related styles */
 .about {
@@ -114,4 +118,13 @@ nav a {
   background: #FFF8F3;
   margin: 130px 0px;
 
+}
+
+.about-info-container {
+  display: flex;
+  justify-content: space-around;
+}
+
+.about-info {
+  text-align: center;
 }
